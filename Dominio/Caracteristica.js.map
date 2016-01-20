@@ -1,0 +1,1 @@
+{"version":3,"file":"Caracteristica.js","sourceRoot":"","sources":["Caracteristica.ts"],"names":["Ingrediente","Ingrediente.constructor","Condimento","Condimento.constructor"],"mappings":"AAAA;;GAEG;AAEH;IAAAA;IAEAC,CAACA;IAADD,kBAACA;AAADA,CAACA,AAFD,IAEC;AAFY,mBAAW,cAEvB,CAAA;AAED;IAAAE;IAEAC,CAACA;IAADD,iBAACA;AAADA,CAACA,AAFD,IAEC;AAFY,kBAAU,aAEtB,CAAA"}
